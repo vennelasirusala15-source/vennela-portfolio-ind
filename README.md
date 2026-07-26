@@ -4,7 +4,7 @@
 chain & operations analyst open to all sectors: retail, FMCG, tech,
 pharma, manufacturing and logistics. My roots are in agriculture.
 
-🔗 **Live site:** https://vennelasirusala15-source.github.io
+🔗 **Live site:**https://github.com/vennelasirusala15-source/vennela-portfolio-ind.git 
 
 ## What's inside
 
