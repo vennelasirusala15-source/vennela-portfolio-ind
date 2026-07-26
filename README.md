@@ -4,8 +4,8 @@
 business analytics professional with a Netherlands MSc, hands-on
 operations experience and a Lean Six Sigma Green Belt. Home: Hyderabad.
 
-🔗 **Live site:** https://vennelasirusala15-source.github.io/vennela-portfolio-ind/
-📦 **Repository:** https://github.com/vennelasirusala15-source/vennela-portfolio-ind.git
+🔗 **Live site:** https://vennelasirusala15-source.github.io/vennela-portfolio-ind
+📦 **Repository:** https://github.com/vennelasirusala15-source/vennela-portfolio-ind
 
 ## What's inside
 
