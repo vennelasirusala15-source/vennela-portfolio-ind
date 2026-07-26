@@ -4,7 +4,7 @@
 chain & operations analyst open to all sectors: retail, FMCG, tech,
 pharma, manufacturing and logistics. My roots are in agriculture.
 
- **Live site:** https://github.com/vennelasirusala15-source/vennela-portfolio-ind.git
+🔗 **Live site:** https://vennelasirusala15-source.github.io
 
 ## What's inside
 
@@ -30,5 +30,3 @@ sector. Reach out via the contact section on my site.
 
 Recruiters can download my CV directly from the site, or here:
 [Vennela-Sirusala-CV.pdf](Vennela-Sirusala-CV.pdf)
-
-An India-focused version for business analytics roles: [india.html](india.html)
